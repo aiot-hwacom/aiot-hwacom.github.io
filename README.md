@@ -1,1 +1,1 @@
-hwacomh35.github.io
+aiot-hwacom.github.io
